@@ -1,6 +1,6 @@
 # Tinder Clone App with React JS and Firebase 🔥
 
-Welcome to my Tinder Clone app built with React JS! This project is a frontend implementation inspired by the tutorial series "Let's Build a TINDER Clone with REACT JS for Beginners" by Clever Programmer. In this app, you can experience the swipe functionality and message features, making it a fun and interactive experience. 💑
+Welcome to my Tinder Clone app built with React JS! This project is a frontend implementation inspired by the tutorial series "Let's Build a TINDER Clone with REACT JS for Beginners" by Clever Programmer([Link](https://www.youtube.com/live/DQfeB_FKKkc?si=CDYs38ha8NgF73uQ)). In this app, you can experience the swipe functionality and message features, making it a fun and interactive experience. 💑
 
 ## Features ✨
 
