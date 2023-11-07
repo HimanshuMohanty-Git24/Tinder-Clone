@@ -30,7 +30,7 @@ This Tinder Clone app is deployed on Firebase for easy access and testing. You c
 
 ![Screenshot 1](https://github.com/HimanshuMohanty-Git24/Tinder-Clone/assets/94133298/51f39ca3-968c-4424-9a8c-7ca27c07b74d)
 ![Screenshot 2](https://github.com/HimanshuMohanty-Git24/Tinder-Clone/assets/94133298/38168633-71c1-47f4-95e0-e8a17802d5c2)
-<img src="https://github.com/HimanshuMohanty-Git24/Tinder-Clone/assets/94133298/8953b2e2-413f-4da5-ac28-a4fef5c62ec7.gif" alt="TinderVID" width="300" height="558">
+<img src="https://github.com/HimanshuMohanty-Git24/Tinder-Clone/assets/94133298/8953b2e2-413f-4da5-ac28-a4fef5c62ec7.gif" alt="TinderVID" width="270" height="558">
 
 
 ## Technologies Used 🛠️
