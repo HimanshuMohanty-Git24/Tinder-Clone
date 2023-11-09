@@ -24,7 +24,7 @@ The project structure is simple and focused on frontend implementation. Here's a
 
 ## Deployment on Firebase 🔥
 
-This Tinder Clone app is deployed on Firebase for easy access and testing. You can check out the live version of the app here: [Tinder Clone on Firebase](https://tinder-clone-e5c81.web.app/).
+This Tinder Clone app is deployed on Firebase for easy access and testing. You can check out the live version of the app here: [Tinder Clone on Firebase](https://tinderclone-rkir.onrender.com/).
 
 ## Project Screenshots 📸
 
